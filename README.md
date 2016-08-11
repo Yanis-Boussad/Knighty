@@ -1,5 +1,5 @@
 # Knighty
-A Blue Nighty Theme for KDE Plasma 5. Based on Maia Theme (David Linares (Mcder3), mcder3@gmail.com)
+A Blue Night Theme for KDE Plasma 5. Based on Maia Theme (David Linares (Mcder3), mcder3@gmail.com)
 #Installation:
 To add this Desktop theme, just copy the folder **Knighty** to: ```/usr/share/plasma/desktoptheme/```
 
